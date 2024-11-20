@@ -1,0 +1,7 @@
+Employee ID: 1
+Name: rahul
+Father's Name: raj
+Email: test@gmail.com
+Position: Sr. eng. 
+Contact: 1234567890
+Salary: 123456789
